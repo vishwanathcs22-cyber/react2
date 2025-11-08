@@ -10,10 +10,7 @@
 
 
 ---
-
-[![All Contributors](https://img.shields.io/github/contributors/typescript-cheatsheets/react-typescript-cheatsheet?color=orange&style=flat-square)](/CONTRIBUTORS.md) | [![Discord](https://img.shields.io/discord/508357248330760243.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wTGS5z9)
-
-- [The Basic Cheatsheet](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup) is focused on helping React devs just start using TS in React **apps**
+tps://react-typescript-cheatsheet.netlify.app/docs/basic/setup) is focused on helping React devs just start using TS in React **apps**
   - Focus on opinionated best practices, copy+pastable examples.
   - Explains some basic TS types usage and setup along the way.
   - Answers the most Frequently Asked Questions.
