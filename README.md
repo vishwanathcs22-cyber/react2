@@ -14,9 +14,7 @@ Cheatsheet for using React with TypeScri
   />
 </a>
 
-[**Web docs**](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup) |
-[Contribute!](https://github.com/typescript-cheatsheets/react/blob/main/CONTRIBUTING.md) |
-[Ask!](https://github.com/typescript-cheatsheets/react/issues/new/choose)
+
 
 :wave: This repo is maintained by [@eps1lon](https://twitter.com/sebsilbermann) and [@filiptammergard](https://twitter.com/tammergard). We're so happy you want to try out React with TypeScript! If you see anything wrong or missing, please [file an issue](https://github.com/typescript-cheatsheets/react/issues/new/choose)! :+1:
 
