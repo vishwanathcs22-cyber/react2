@@ -4,7 +4,7 @@ Cheatsheet for using React with TypeScri
 
 ---
 
-<a href="https://github.com/typescript-cheatsheets/react/issues/81">
+
 
 
 
