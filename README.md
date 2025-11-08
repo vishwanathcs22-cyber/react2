@@ -13,7 +13,7 @@ Cheatsheet for using React with TypeScri
 
 
 
-:wave: This repo is maintained by [@eps1lon](https://twitter.com/sebsilbermann) and [@filiptammergard](https://twitter.com/tammergard). We're so happy you want to try out React with TypeScript! If you see anything wrong or missing, please [file an issue](https://github.com/typescript-cheatsheets/react/issues/new/choose)! :+1:
+ If you see anything wrong or missing, please [file an issue](https://github.com/typescript-cheatsheets/react/issues/new/choose)! :+1:
 
 ---
 
