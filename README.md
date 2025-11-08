@@ -13,7 +13,6 @@ Cheatsheet for using React with TypeScri
 
 
 
- If you see anything wrong or missing, please [file an issue](https://github.com/typescript-cheatsheets/react/issues/new/choose)! :+1:
 
 ---
 
