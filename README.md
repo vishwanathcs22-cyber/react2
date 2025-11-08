@@ -1,6 +1,6 @@
 # React TypeScript Cheatsheet
 
-Cheatsheet for using React with TypeScript.
+Cheatsheet for using React with TypeScrip
 
 ---
 
